@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mordechai Hadad</h1>
-<h3 align="center">A backend developer from Israel</h3>
+<h3 align="center">A Rust Systems Architect from Israel</h3>
 
 
 
 - 🔭 I’m currently working on [Neovim Version Manager](https://github.com/MordechaiHadad/bob)
-
-- 🌱 I’m currently learning **Svelte, Tailwindcss, Vite and SurrealDB**
 
 - 🤝 I’m looking for help with [Neovim Version Manager](https://github.com/MordechaiHadad/bob)
 
