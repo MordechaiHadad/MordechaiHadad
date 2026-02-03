@@ -5,7 +5,6 @@
 
 - 🧰 Maintainer of [bob](https://github.com/MordechaiHadad/bob) (Neovim version manager).  
 - 🧠 Building small, low-overhead developer tools in Rust (CLIs, automation, DX).  
-- 🎤 Open to conference talks / workshops / podcasts (Rust tooling, CLI ergonomics, migrations, maintainership).  
 - 💬 Ask me about C# → Rust migrations, systems design, and OSS tooling.  
 - 📫 Contact: mordechai.hadad01@gmail.com
 
