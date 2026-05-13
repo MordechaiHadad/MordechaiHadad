@@ -1,21 +1,24 @@
-<h1 align="center">Hi 👋, I'm Mordechai Hadad</h1>
-<h3 align="center">A Rust Systems Architect from Israel</h3>
+## Mordechai Hadad — Rust Infrastructure & Developer Tooling
 
+I build the CLI, release, and distribution systems that keep developer teams productive.
 
+**Currently open to:** Platform and infrastructure engineering contracts, DevEx consulting, and internal tooling work.
+### What I do
 
-- 🧰 Maintainer of [bob](https://github.com/MordechaiHadad/bob) (Neovim version manager).  
-- 🧠 Building small, low-overhead developer tools in Rust (CLIs, automation, DX).  
-- 💬 Ask me about C# → Rust migrations, systems design, and OSS tooling.  
-- 📫 Contact: mordechai.hadad01@gmail.com
+- **Developer tooling & DX:** Maintainer of [`bob`](https://github.com/MordechaiHadad/bob) (2.1k stars), a cross-platform Neovim version manager used by thousands of developers. Ships across Windows, macOS, and Linux via GitHub Releases, Cargo, and AppImage builds.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- **Backend systems & database architecture:** [`axum-rate-limiter`](https://github.com/MordechaiHadad/axum-rate-limiter): Axum middleware with pluggable SurrealDB and Redis backends. [SurrealDB invitation system](https://mord-blog.vercel.app/articles/surrealdb-invitation-system): auth flows, access control, and multi-tenant database design.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mordechaihadad" alt="mordechaihadad" /></a> </p>
+- **AI infrastructure:** [`rig-surreal`](https://github.com/MordechaiHadad/rig-surreal): SurrealDB integration for the Rig AI framework. Local-first memory and context layers for LLM applications.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mordechaihadad&show_icons=true&theme=onedark&locale=en&layout=compact" alt="mordechaihadad" /></p>
+- **GUI tooling:** Tauri-based desktop interfaces for developer tools when a CLI isn't enough.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mordechaihadad&show_icons=true&theme=onedark&locale=en" alt="mordechaihadad" /></p>
+### Where I help
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mordechaihadad&theme=dark" alt="mordechaihadad" /></p>
+- **CLI & release engineering:** Cross-platform distribution, release automation, and packaging (GitHub Releases, Cargo, AppImage)
 
+- **Backend & AI infrastructure:** Rust services (Axum, middleware), local-first LLM memory/context layers, and database architecture for production systems.
+
+- **End-to-end developer tools:** Rust core systems with TypeScript/Svelte/Tauri interfaces, plus internal tooling and platform interfaces that development teams use daily.
+
+📫 mordechai.hadad01@gmail.com
