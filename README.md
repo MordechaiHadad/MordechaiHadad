@@ -21,5 +21,6 @@ I build the CLI, release, and distribution systems that keep developer teams pro
 
 - **End-to-end developer tools:** Rust core systems with TypeScript/Svelte/Tauri interfaces, plus internal tooling and platform interfaces that development teams use daily.
 
-Email: mordechai.hadad01@gmail.com
-Website: https://github.com/MordechaiHadad/bob
+
+- Website: https://github.com/MordechaiHadad/bob
+- Email: mordechai.hadad01@gmail.com
